@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+seaborn
+googlemaps
+chatbot
+fpdf
+folium
+streamlit-folium
+streamlit_lottie
+streamlit_elements
+dotenv
+reportlab
+azureopenai
+openai
