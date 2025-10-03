@@ -88,7 +88,7 @@ python app.py
 
 ## 👨‍💻 Author
 
-- [@taanishraj](https://github.com/taanishraj)
+- [@Vinayak C](https://github.com/VinayakC-creator)
 
 ---
 
